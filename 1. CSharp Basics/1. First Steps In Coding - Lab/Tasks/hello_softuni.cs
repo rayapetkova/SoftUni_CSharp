@@ -1,1 +1,1 @@
-Console.WriteLine("Hello, SoftUni!");
+Console.WriteLine("Hello SoftUni");
