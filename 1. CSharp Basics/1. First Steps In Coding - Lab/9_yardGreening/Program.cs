@@ -1,4 +1,4 @@
-﻿int squareMeters = int.Parse(Console.ReadLine());
+﻿double squareMeters = double.Parse(Console.ReadLine());
 double price = squareMeters * 7.61;
 
 double discount = 0.18 * price;
