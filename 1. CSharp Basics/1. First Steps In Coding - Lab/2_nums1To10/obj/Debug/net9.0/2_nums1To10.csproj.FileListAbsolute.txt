@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\2_nums1To10\bin\Debug\net9.0\2_nums1To10.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\2_nums1To10\bin\Debug\net9.0\2_nums1To10.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\2_nums1To10\bin\Debug\net9.0\2_nums1To10.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\2_nums1To10\bin\Debug\net9.0\2_nums1To10.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\2_nums1To10\bin\Debug\net9.0\2_nums1To10.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\2_nums1To10\obj\Debug\net9.0\2_nums1To10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\2_nums1To10\obj\Debug\net9.0\2_nums1To10.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\2_nums1To10\obj\Debug\net9.0\2_nums1To10.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\2_nums1To10\obj\Debug\net9.0\2_nums1To10.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\2_nums1To10\obj\Debug\net9.0\2_nums1To10.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\2_nums1To10\obj\Debug\net9.0\2_nums1To10.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\2_nums1To10\obj\Debug\net9.0\refint\2_nums1To10.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\2_nums1To10\obj\Debug\net9.0\2_nums1To10.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\2_nums1To10\obj\Debug\net9.0\2_nums1To10.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\2_nums1To10\obj\Debug\net9.0\ref\2_nums1To10.dll
