@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\3_rectangleArea\bin\Debug\net9.0\3_rectangleArea.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\3_rectangleArea\bin\Debug\net9.0\3_rectangleArea.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\3_rectangleArea\bin\Debug\net9.0\3_rectangleArea.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\3_rectangleArea\bin\Debug\net9.0\3_rectangleArea.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\3_rectangleArea\bin\Debug\net9.0\3_rectangleArea.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\3_rectangleArea\obj\Debug\net9.0\3_rectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\3_rectangleArea\obj\Debug\net9.0\3_rectangleArea.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\3_rectangleArea\obj\Debug\net9.0\3_rectangleArea.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\3_rectangleArea\obj\Debug\net9.0\3_rectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\3_rectangleArea\obj\Debug\net9.0\3_rectangleArea.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\3_rectangleArea\obj\Debug\net9.0\3_rectangleArea.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\3_rectangleArea\obj\Debug\net9.0\refint\3_rectangleArea.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\3_rectangleArea\obj\Debug\net9.0\3_rectangleArea.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\3_rectangleArea\obj\Debug\net9.0\3_rectangleArea.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\3_rectangleArea\obj\Debug\net9.0\ref\3_rectangleArea.dll
