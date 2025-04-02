@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\9_yardGreening\bin\Debug\net9.0\9_yardGreening.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\9_yardGreening\bin\Debug\net9.0\9_yardGreening.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\9_yardGreening\bin\Debug\net9.0\9_yardGreening.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\9_yardGreening\bin\Debug\net9.0\9_yardGreening.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\9_yardGreening\bin\Debug\net9.0\9_yardGreening.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\9_yardGreening\obj\Debug\net9.0\9_yardGreening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\9_yardGreening\obj\Debug\net9.0\9_yardGreening.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\9_yardGreening\obj\Debug\net9.0\9_yardGreening.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\9_yardGreening\obj\Debug\net9.0\9_yardGreening.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\9_yardGreening\obj\Debug\net9.0\9_yardGreening.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\9_yardGreening\obj\Debug\net9.0\9_yardGreening.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\9_yardGreening\obj\Debug\net9.0\refint\9_yardGreening.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\9_yardGreening\obj\Debug\net9.0\9_yardGreening.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\9_yardGreening\obj\Debug\net9.0\9_yardGreening.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\9_yardGreening\obj\Debug\net9.0\ref\9_yardGreening.dll
