@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\4_inchesToCentimeters\bin\Debug\net9.0\4_inchesToCentimeters.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\4_inchesToCentimeters\bin\Debug\net9.0\4_inchesToCentimeters.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\4_inchesToCentimeters\bin\Debug\net9.0\4_inchesToCentimeters.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\4_inchesToCentimeters\bin\Debug\net9.0\4_inchesToCentimeters.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\4_inchesToCentimeters\bin\Debug\net9.0\4_inchesToCentimeters.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\4_inchesToCentimeters\obj\Debug\net9.0\4_inchesToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\4_inchesToCentimeters\obj\Debug\net9.0\4_inchesToCentimeters.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\4_inchesToCentimeters\obj\Debug\net9.0\4_inchesToCentimeters.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\4_inchesToCentimeters\obj\Debug\net9.0\4_inchesToCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\4_inchesToCentimeters\obj\Debug\net9.0\4_inchesToCentimeters.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\4_inchesToCentimeters\obj\Debug\net9.0\4_inchesToCentimeters.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\4_inchesToCentimeters\obj\Debug\net9.0\refint\4_inchesToCentimeters.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\4_inchesToCentimeters\obj\Debug\net9.0\4_inchesToCentimeters.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\4_inchesToCentimeters\obj\Debug\net9.0\4_inchesToCentimeters.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Lab\4_inchesToCentimeters\obj\Debug\net9.0\ref\4_inchesToCentimeters.dll
