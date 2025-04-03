@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "4_vacationBooksList/1.0.0": {
+        "runtime": {
+          "4_vacationBooksList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "4_vacationBooksList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

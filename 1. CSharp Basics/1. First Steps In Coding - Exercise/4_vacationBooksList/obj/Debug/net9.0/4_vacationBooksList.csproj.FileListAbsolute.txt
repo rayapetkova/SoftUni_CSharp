@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\4_vacationBooksList\bin\Debug\net9.0\4_vacationBooksList.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\4_vacationBooksList\bin\Debug\net9.0\4_vacationBooksList.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\4_vacationBooksList\bin\Debug\net9.0\4_vacationBooksList.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\4_vacationBooksList\bin\Debug\net9.0\4_vacationBooksList.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\4_vacationBooksList\bin\Debug\net9.0\4_vacationBooksList.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\4_vacationBooksList\obj\Debug\net9.0\4_vacationBooksList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\4_vacationBooksList\obj\Debug\net9.0\4_vacationBooksList.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\4_vacationBooksList\obj\Debug\net9.0\4_vacationBooksList.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\4_vacationBooksList\obj\Debug\net9.0\4_vacationBooksList.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\4_vacationBooksList\obj\Debug\net9.0\4_vacationBooksList.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\4_vacationBooksList\obj\Debug\net9.0\4_vacationBooksList.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\4_vacationBooksList\obj\Debug\net9.0\refint\4_vacationBooksList.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\4_vacationBooksList\obj\Debug\net9.0\4_vacationBooksList.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\4_vacationBooksList\obj\Debug\net9.0\4_vacationBooksList.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\4_vacationBooksList\obj\Debug\net9.0\ref\4_vacationBooksList.dll
