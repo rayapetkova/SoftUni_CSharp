@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\8_basketballEquipment\bin\Debug\net9.0\8_basketballEquipment.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\8_basketballEquipment\bin\Debug\net9.0\8_basketballEquipment.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\8_basketballEquipment\bin\Debug\net9.0\8_basketballEquipment.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\8_basketballEquipment\bin\Debug\net9.0\8_basketballEquipment.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\8_basketballEquipment\bin\Debug\net9.0\8_basketballEquipment.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\8_basketballEquipment\obj\Debug\net9.0\8_basketballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\8_basketballEquipment\obj\Debug\net9.0\8_basketballEquipment.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\8_basketballEquipment\obj\Debug\net9.0\8_basketballEquipment.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\8_basketballEquipment\obj\Debug\net9.0\8_basketballEquipment.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\8_basketballEquipment\obj\Debug\net9.0\8_basketballEquipment.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\8_basketballEquipment\obj\Debug\net9.0\8_basketballEquipment.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\8_basketballEquipment\obj\Debug\net9.0\refint\8_basketballEquipment.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\8_basketballEquipment\obj\Debug\net9.0\8_basketballEquipment.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\8_basketballEquipment\obj\Debug\net9.0\8_basketballEquipment.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\8_basketballEquipment\obj\Debug\net9.0\ref\8_basketballEquipment.dll

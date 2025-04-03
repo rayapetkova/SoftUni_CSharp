@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\9_fishTank\bin\Debug\net9.0\9_fishTank.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\9_fishTank\bin\Debug\net9.0\9_fishTank.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\9_fishTank\bin\Debug\net9.0\9_fishTank.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\9_fishTank\bin\Debug\net9.0\9_fishTank.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\9_fishTank\bin\Debug\net9.0\9_fishTank.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\9_fishTank\obj\Debug\net9.0\9_fishTank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\9_fishTank\obj\Debug\net9.0\9_fishTank.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\9_fishTank\obj\Debug\net9.0\9_fishTank.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\9_fishTank\obj\Debug\net9.0\9_fishTank.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\9_fishTank\obj\Debug\net9.0\9_fishTank.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\9_fishTank\obj\Debug\net9.0\9_fishTank.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\9_fishTank\obj\Debug\net9.0\refint\9_fishTank.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\9_fishTank\obj\Debug\net9.0\9_fishTank.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\9_fishTank\obj\Debug\net9.0\9_fishTank.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\9_fishTank\obj\Debug\net9.0\ref\9_fishTank.dll

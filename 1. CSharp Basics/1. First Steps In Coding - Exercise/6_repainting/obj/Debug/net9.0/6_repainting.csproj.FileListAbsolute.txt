@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\6_repainting\bin\Debug\net9.0\6_repainting.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\6_repainting\bin\Debug\net9.0\6_repainting.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\6_repainting\bin\Debug\net9.0\6_repainting.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\6_repainting\bin\Debug\net9.0\6_repainting.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\6_repainting\bin\Debug\net9.0\6_repainting.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\6_repainting\obj\Debug\net9.0\6_repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\6_repainting\obj\Debug\net9.0\6_repainting.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\6_repainting\obj\Debug\net9.0\6_repainting.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\6_repainting\obj\Debug\net9.0\6_repainting.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\6_repainting\obj\Debug\net9.0\6_repainting.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\6_repainting\obj\Debug\net9.0\6_repainting.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\6_repainting\obj\Debug\net9.0\refint\6_repainting.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\6_repainting\obj\Debug\net9.0\6_repainting.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\6_repainting\obj\Debug\net9.0\6_repainting.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\1. First Steps In Coding - Exercise\6_repainting\obj\Debug\net9.0\ref\6_repainting.dll
