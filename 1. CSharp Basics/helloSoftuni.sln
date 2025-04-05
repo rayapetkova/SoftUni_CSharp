@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_number100To200", "2. Cond
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_speedInfo", "2. Conditional Statements - Lab\6_speedInfo\6_speedInfo.csproj", "{403A52D2-6E77-42BD-A94D-B8BCB57C7AE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_areaOfFigures", "2. Conditional Statements - Lab\7_areaOfFigures\7_areaOfFigures.csproj", "{E9F8F7E9-1637-4F35-A652-3C69A3A31696}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -397,6 +399,18 @@ Global
 		{403A52D2-6E77-42BD-A94D-B8BCB57C7AE1}.Release|x64.Build.0 = Release|Any CPU
 		{403A52D2-6E77-42BD-A94D-B8BCB57C7AE1}.Release|x86.ActiveCfg = Release|Any CPU
 		{403A52D2-6E77-42BD-A94D-B8BCB57C7AE1}.Release|x86.Build.0 = Release|Any CPU
+		{E9F8F7E9-1637-4F35-A652-3C69A3A31696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9F8F7E9-1637-4F35-A652-3C69A3A31696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9F8F7E9-1637-4F35-A652-3C69A3A31696}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E9F8F7E9-1637-4F35-A652-3C69A3A31696}.Debug|x64.Build.0 = Debug|Any CPU
+		{E9F8F7E9-1637-4F35-A652-3C69A3A31696}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E9F8F7E9-1637-4F35-A652-3C69A3A31696}.Debug|x86.Build.0 = Debug|Any CPU
+		{E9F8F7E9-1637-4F35-A652-3C69A3A31696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9F8F7E9-1637-4F35-A652-3C69A3A31696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9F8F7E9-1637-4F35-A652-3C69A3A31696}.Release|x64.ActiveCfg = Release|Any CPU
+		{E9F8F7E9-1637-4F35-A652-3C69A3A31696}.Release|x64.Build.0 = Release|Any CPU
+		{E9F8F7E9-1637-4F35-A652-3C69A3A31696}.Release|x86.ActiveCfg = Release|Any CPU
+		{E9F8F7E9-1637-4F35-A652-3C69A3A31696}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -428,5 +442,6 @@ Global
 		{CB11C572-55B1-46BF-980A-A6E1D1002F8F} = {3ECFE325-CE6D-BF3F-F148-32EB18378828}
 		{3A0576A9-FB05-425C-AF3F-F3468F02483A} = {3ECFE325-CE6D-BF3F-F148-32EB18378828}
 		{403A52D2-6E77-42BD-A94D-B8BCB57C7AE1} = {3ECFE325-CE6D-BF3F-F148-32EB18378828}
+		{E9F8F7E9-1637-4F35-A652-3C69A3A31696} = {3ECFE325-CE6D-BF3F-F148-32EB18378828}
 	EndGlobalSection
 EndGlobal
