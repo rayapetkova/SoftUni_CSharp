@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Lab\12_tradeCommissions\bin\Debug\net9.0\12_tradeCommissions.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Lab\12_tradeCommissions\bin\Debug\net9.0\12_tradeCommissions.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Lab\12_tradeCommissions\bin\Debug\net9.0\12_tradeCommissions.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Lab\12_tradeCommissions\bin\Debug\net9.0\12_tradeCommissions.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Lab\12_tradeCommissions\bin\Debug\net9.0\12_tradeCommissions.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Lab\12_tradeCommissions\obj\Debug\net9.0\12_tradeCommissions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Lab\12_tradeCommissions\obj\Debug\net9.0\12_tradeCommissions.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Lab\12_tradeCommissions\obj\Debug\net9.0\12_tradeCommissions.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Lab\12_tradeCommissions\obj\Debug\net9.0\12_tradeCommissions.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Lab\12_tradeCommissions\obj\Debug\net9.0\12_tradeCommissions.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Lab\12_tradeCommissions\obj\Debug\net9.0\12_tradeCommissions.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Lab\12_tradeCommissions\obj\Debug\net9.0\refint\12_tradeCommissions.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Lab\12_tradeCommissions\obj\Debug\net9.0\12_tradeCommissions.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Lab\12_tradeCommissions\obj\Debug\net9.0\12_tradeCommissions.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Lab\12_tradeCommissions\obj\Debug\net9.0\ref\12_tradeCommissions.dll
