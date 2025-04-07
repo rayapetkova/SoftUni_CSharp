@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_timePlus15Minutes", "2. C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_toyShop", "2. Conditional Statements - Exercise\4_toyShop\4_toyShop.csproj", "{80FF264A-996D-4382-9B75-90D1C47CAE83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_godzillaVsKong", "2. Conditional Statements - Exercise\5_godzillaVsKong\5_godzillaVsKong.csproj", "{C13A41CD-A176-4971-B98C-092B0D75966E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -469,6 +471,18 @@ Global
 		{80FF264A-996D-4382-9B75-90D1C47CAE83}.Release|x64.Build.0 = Release|Any CPU
 		{80FF264A-996D-4382-9B75-90D1C47CAE83}.Release|x86.ActiveCfg = Release|Any CPU
 		{80FF264A-996D-4382-9B75-90D1C47CAE83}.Release|x86.Build.0 = Release|Any CPU
+		{C13A41CD-A176-4971-B98C-092B0D75966E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C13A41CD-A176-4971-B98C-092B0D75966E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C13A41CD-A176-4971-B98C-092B0D75966E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C13A41CD-A176-4971-B98C-092B0D75966E}.Debug|x64.Build.0 = Debug|Any CPU
+		{C13A41CD-A176-4971-B98C-092B0D75966E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C13A41CD-A176-4971-B98C-092B0D75966E}.Debug|x86.Build.0 = Debug|Any CPU
+		{C13A41CD-A176-4971-B98C-092B0D75966E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C13A41CD-A176-4971-B98C-092B0D75966E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C13A41CD-A176-4971-B98C-092B0D75966E}.Release|x64.ActiveCfg = Release|Any CPU
+		{C13A41CD-A176-4971-B98C-092B0D75966E}.Release|x64.Build.0 = Release|Any CPU
+		{C13A41CD-A176-4971-B98C-092B0D75966E}.Release|x86.ActiveCfg = Release|Any CPU
+		{C13A41CD-A176-4971-B98C-092B0D75966E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -505,5 +519,6 @@ Global
 		{EB9AE391-3E96-4CD9-947F-6E9E184BADFC} = {AB402B99-CE95-7119-2BD2-29DE898425A4}
 		{F6E9A761-098F-4391-9E62-ED61B67ADC53} = {AB402B99-CE95-7119-2BD2-29DE898425A4}
 		{80FF264A-996D-4382-9B75-90D1C47CAE83} = {AB402B99-CE95-7119-2BD2-29DE898425A4}
+		{C13A41CD-A176-4971-B98C-092B0D75966E} = {AB402B99-CE95-7119-2BD2-29DE898425A4}
 	EndGlobalSection
 EndGlobal
