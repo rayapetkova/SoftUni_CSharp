@@ -115,6 +115,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_cinema", "3. Conditional 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_summerOutfit", "3. Conditional Statements Advanced - Exercise\2_summerOutfit\2_summerOutfit.csproj", "{A6E07CF0-192A-4983-BAD9-1A2F94F462C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_newHouse", "3. Conditional Statements Advanced - Exercise\3_newHouse\3_newHouse.csproj", "{79A9242F-A78C-4BFB-A316-60B611D06B76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -725,6 +727,18 @@ Global
 		{A6E07CF0-192A-4983-BAD9-1A2F94F462C1}.Release|x64.Build.0 = Release|Any CPU
 		{A6E07CF0-192A-4983-BAD9-1A2F94F462C1}.Release|x86.ActiveCfg = Release|Any CPU
 		{A6E07CF0-192A-4983-BAD9-1A2F94F462C1}.Release|x86.Build.0 = Release|Any CPU
+		{79A9242F-A78C-4BFB-A316-60B611D06B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A9242F-A78C-4BFB-A316-60B611D06B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A9242F-A78C-4BFB-A316-60B611D06B76}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{79A9242F-A78C-4BFB-A316-60B611D06B76}.Debug|x64.Build.0 = Debug|Any CPU
+		{79A9242F-A78C-4BFB-A316-60B611D06B76}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{79A9242F-A78C-4BFB-A316-60B611D06B76}.Debug|x86.Build.0 = Debug|Any CPU
+		{79A9242F-A78C-4BFB-A316-60B611D06B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A9242F-A78C-4BFB-A316-60B611D06B76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79A9242F-A78C-4BFB-A316-60B611D06B76}.Release|x64.ActiveCfg = Release|Any CPU
+		{79A9242F-A78C-4BFB-A316-60B611D06B76}.Release|x64.Build.0 = Release|Any CPU
+		{79A9242F-A78C-4BFB-A316-60B611D06B76}.Release|x86.ActiveCfg = Release|Any CPU
+		{79A9242F-A78C-4BFB-A316-60B611D06B76}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -779,5 +793,6 @@ Global
 		{BC3DD2B4-0ED0-469B-844B-947726ACBCAB} = {78817D9B-5481-CF30-A3D8-D20690CC8D31}
 		{F8A1C08D-6CEA-4C9C-85EE-2AA58FBECD9E} = {D909396F-F1BC-BBBE-F2BF-ADCAB38CE666}
 		{A6E07CF0-192A-4983-BAD9-1A2F94F462C1} = {D909396F-F1BC-BBBE-F2BF-ADCAB38CE666}
+		{79A9242F-A78C-4BFB-A316-60B611D06B76} = {D909396F-F1BC-BBBE-F2BF-ADCAB38CE666}
 	EndGlobalSection
 EndGlobal
