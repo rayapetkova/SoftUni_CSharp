@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\6_operationsBetweenNumbers\bin\Debug\net9.0\6_operationsBetweenNumbers.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\6_operationsBetweenNumbers\bin\Debug\net9.0\6_operationsBetweenNumbers.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\6_operationsBetweenNumbers\bin\Debug\net9.0\6_operationsBetweenNumbers.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\6_operationsBetweenNumbers\bin\Debug\net9.0\6_operationsBetweenNumbers.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\6_operationsBetweenNumbers\bin\Debug\net9.0\6_operationsBetweenNumbers.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\6_operationsBetweenNumbers\obj\Debug\net9.0\6_operationsBetweenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\6_operationsBetweenNumbers\obj\Debug\net9.0\6_operationsBetweenNumbers.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\6_operationsBetweenNumbers\obj\Debug\net9.0\6_operationsBetweenNumbers.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\6_operationsBetweenNumbers\obj\Debug\net9.0\6_operationsBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\6_operationsBetweenNumbers\obj\Debug\net9.0\6_operationsBetweenNumbers.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\6_operationsBetweenNumbers\obj\Debug\net9.0\6_operationsBetweenNumbers.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\6_operationsBetweenNumbers\obj\Debug\net9.0\refint\6_operationsBetweenNumbers.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\6_operationsBetweenNumbers\obj\Debug\net9.0\6_operationsBetweenNumbers.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\6_operationsBetweenNumbers\obj\Debug\net9.0\6_operationsBetweenNumbers.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\6_operationsBetweenNumbers\obj\Debug\net9.0\ref\6_operationsBetweenNumbers.dll
