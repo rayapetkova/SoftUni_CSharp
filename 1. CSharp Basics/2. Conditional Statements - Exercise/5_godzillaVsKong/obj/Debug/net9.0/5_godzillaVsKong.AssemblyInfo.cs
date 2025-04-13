@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("5_godzillaVsKong")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75215d91691d22872f2e28eeb2e492ff86ff179f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+077de7372924f0f2fcb14d12cd7355194ba3ef1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("5_godzillaVsKong")]
 [assembly: System.Reflection.AssemblyTitleAttribute("5_godzillaVsKong")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

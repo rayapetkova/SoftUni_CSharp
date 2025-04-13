@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("8_basketballEquipment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8f6cc1fc9bac1f6a44cd74787a1069b5dc0c7ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+077de7372924f0f2fcb14d12cd7355194ba3ef1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("8_basketballEquipment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("8_basketballEquipment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
