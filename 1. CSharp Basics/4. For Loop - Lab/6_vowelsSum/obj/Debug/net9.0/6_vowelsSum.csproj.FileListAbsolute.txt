@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Lab\6_vowelsSum\bin\Debug\net9.0\6_vowelsSum.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Lab\6_vowelsSum\bin\Debug\net9.0\6_vowelsSum.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Lab\6_vowelsSum\bin\Debug\net9.0\6_vowelsSum.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Lab\6_vowelsSum\bin\Debug\net9.0\6_vowelsSum.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Lab\6_vowelsSum\bin\Debug\net9.0\6_vowelsSum.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Lab\6_vowelsSum\obj\Debug\net9.0\6_vowelsSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Lab\6_vowelsSum\obj\Debug\net9.0\6_vowelsSum.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Lab\6_vowelsSum\obj\Debug\net9.0\6_vowelsSum.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Lab\6_vowelsSum\obj\Debug\net9.0\6_vowelsSum.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Lab\6_vowelsSum\obj\Debug\net9.0\6_vowelsSum.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Lab\6_vowelsSum\obj\Debug\net9.0\6_vowelsSum.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Lab\6_vowelsSum\obj\Debug\net9.0\refint\6_vowelsSum.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Lab\6_vowelsSum\obj\Debug\net9.0\6_vowelsSum.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Lab\6_vowelsSum\obj\Debug\net9.0\6_vowelsSum.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Lab\6_vowelsSum\obj\Debug\net9.0\ref\6_vowelsSum.dll
