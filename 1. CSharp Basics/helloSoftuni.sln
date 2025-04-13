@@ -127,6 +127,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_hotelRoom", "3. Condition
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8_onTimeForTheExam", "3. Conditional Statements Advanced - Exercise\8_onTimeForTheExam\8_onTimeForTheExam.csproj", "{92E36954-5C4C-4DAD-BDBC-6584A19E592B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9_skiTrip", "3. Conditional Statements Advanced - Exercise\9_skiTrip\9_skiTrip.csproj", "{BE208B40-84F0-4979-B178-241221507EA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -809,6 +811,18 @@ Global
 		{92E36954-5C4C-4DAD-BDBC-6584A19E592B}.Release|x64.Build.0 = Release|Any CPU
 		{92E36954-5C4C-4DAD-BDBC-6584A19E592B}.Release|x86.ActiveCfg = Release|Any CPU
 		{92E36954-5C4C-4DAD-BDBC-6584A19E592B}.Release|x86.Build.0 = Release|Any CPU
+		{BE208B40-84F0-4979-B178-241221507EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE208B40-84F0-4979-B178-241221507EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE208B40-84F0-4979-B178-241221507EA5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BE208B40-84F0-4979-B178-241221507EA5}.Debug|x64.Build.0 = Debug|Any CPU
+		{BE208B40-84F0-4979-B178-241221507EA5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BE208B40-84F0-4979-B178-241221507EA5}.Debug|x86.Build.0 = Debug|Any CPU
+		{BE208B40-84F0-4979-B178-241221507EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE208B40-84F0-4979-B178-241221507EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE208B40-84F0-4979-B178-241221507EA5}.Release|x64.ActiveCfg = Release|Any CPU
+		{BE208B40-84F0-4979-B178-241221507EA5}.Release|x64.Build.0 = Release|Any CPU
+		{BE208B40-84F0-4979-B178-241221507EA5}.Release|x86.ActiveCfg = Release|Any CPU
+		{BE208B40-84F0-4979-B178-241221507EA5}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -869,5 +883,6 @@ Global
 		{1412C71F-D651-4464-ADD0-5EFF6276652F} = {D909396F-F1BC-BBBE-F2BF-ADCAB38CE666}
 		{68E63A48-9257-4D4C-A76F-24CEB44D301F} = {D909396F-F1BC-BBBE-F2BF-ADCAB38CE666}
 		{92E36954-5C4C-4DAD-BDBC-6584A19E592B} = {D909396F-F1BC-BBBE-F2BF-ADCAB38CE666}
+		{BE208B40-84F0-4979-B178-241221507EA5} = {D909396F-F1BC-BBBE-F2BF-ADCAB38CE666}
 	EndGlobalSection
 EndGlobal

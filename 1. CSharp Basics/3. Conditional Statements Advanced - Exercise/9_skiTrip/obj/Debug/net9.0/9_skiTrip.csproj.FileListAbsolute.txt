@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\9_skiTrip\bin\Debug\net9.0\9_skiTrip.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\9_skiTrip\bin\Debug\net9.0\9_skiTrip.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\9_skiTrip\bin\Debug\net9.0\9_skiTrip.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\9_skiTrip\bin\Debug\net9.0\9_skiTrip.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\9_skiTrip\bin\Debug\net9.0\9_skiTrip.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\9_skiTrip\obj\Debug\net9.0\9_skiTrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\9_skiTrip\obj\Debug\net9.0\9_skiTrip.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\9_skiTrip\obj\Debug\net9.0\9_skiTrip.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\9_skiTrip\obj\Debug\net9.0\9_skiTrip.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\9_skiTrip\obj\Debug\net9.0\9_skiTrip.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\9_skiTrip\obj\Debug\net9.0\9_skiTrip.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\9_skiTrip\obj\Debug\net9.0\refint\9_skiTrip.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\9_skiTrip\obj\Debug\net9.0\9_skiTrip.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\9_skiTrip\obj\Debug\net9.0\9_skiTrip.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\9_skiTrip\obj\Debug\net9.0\ref\9_skiTrip.dll
