@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\8_onTimeForTheExam\bin\Debug\net9.0\8_onTimeForTheExam.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\8_onTimeForTheExam\bin\Debug\net9.0\8_onTimeForTheExam.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\8_onTimeForTheExam\bin\Debug\net9.0\8_onTimeForTheExam.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\8_onTimeForTheExam\bin\Debug\net9.0\8_onTimeForTheExam.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\8_onTimeForTheExam\bin\Debug\net9.0\8_onTimeForTheExam.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\8_onTimeForTheExam\obj\Debug\net9.0\8_onTimeForTheExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\8_onTimeForTheExam\obj\Debug\net9.0\8_onTimeForTheExam.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\8_onTimeForTheExam\obj\Debug\net9.0\8_onTimeForTheExam.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\8_onTimeForTheExam\obj\Debug\net9.0\8_onTimeForTheExam.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\8_onTimeForTheExam\obj\Debug\net9.0\8_onTimeForTheExam.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\8_onTimeForTheExam\obj\Debug\net9.0\8_onTimeForTheExam.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\8_onTimeForTheExam\obj\Debug\net9.0\refint\8_onTimeForTheExam.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\8_onTimeForTheExam\obj\Debug\net9.0\8_onTimeForTheExam.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\8_onTimeForTheExam\obj\Debug\net9.0\8_onTimeForTheExam.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\3. Conditional Statements Advanced - Exercise\8_onTimeForTheExam\obj\Debug\net9.0\ref\8_onTimeForTheExam.dll
