@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\4_cleverLily\bin\Debug\net9.0\4_cleverLily.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\4_cleverLily\bin\Debug\net9.0\4_cleverLily.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\4_cleverLily\bin\Debug\net9.0\4_cleverLily.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\4_cleverLily\bin\Debug\net9.0\4_cleverLily.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\4_cleverLily\bin\Debug\net9.0\4_cleverLily.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\4_cleverLily\obj\Debug\net9.0\4_cleverLily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\4_cleverLily\obj\Debug\net9.0\4_cleverLily.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\4_cleverLily\obj\Debug\net9.0\4_cleverLily.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\4_cleverLily\obj\Debug\net9.0\4_cleverLily.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\4_cleverLily\obj\Debug\net9.0\4_cleverLily.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\4_cleverLily\obj\Debug\net9.0\4_cleverLily.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\4_cleverLily\obj\Debug\net9.0\refint\4_cleverLily.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\4_cleverLily\obj\Debug\net9.0\4_cleverLily.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\4_cleverLily\obj\Debug\net9.0\4_cleverLily.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\4_cleverLily\obj\Debug\net9.0\ref\4_cleverLily.dll

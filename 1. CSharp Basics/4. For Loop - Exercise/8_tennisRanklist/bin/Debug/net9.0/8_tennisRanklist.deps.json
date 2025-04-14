@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "8_tennisRanklist/1.0.0": {
+        "runtime": {
+          "8_tennisRanklist.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "8_tennisRanklist/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\6_oscars\bin\Debug\net9.0\6_oscars.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\6_oscars\bin\Debug\net9.0\6_oscars.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\6_oscars\bin\Debug\net9.0\6_oscars.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\6_oscars\bin\Debug\net9.0\6_oscars.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\6_oscars\bin\Debug\net9.0\6_oscars.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\6_oscars\obj\Debug\net9.0\6_oscars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\6_oscars\obj\Debug\net9.0\6_oscars.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\6_oscars\obj\Debug\net9.0\6_oscars.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\6_oscars\obj\Debug\net9.0\6_oscars.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\6_oscars\obj\Debug\net9.0\6_oscars.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\6_oscars\obj\Debug\net9.0\6_oscars.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\6_oscars\obj\Debug\net9.0\refint\6_oscars.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\6_oscars\obj\Debug\net9.0\6_oscars.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\6_oscars\obj\Debug\net9.0\6_oscars.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\6_oscars\obj\Debug\net9.0\ref\6_oscars.dll
