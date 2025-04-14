@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("9_yardGreening")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+077de7372924f0f2fcb14d12cd7355194ba3ef1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+552823e798995c102d4151faaf33b9d42dd2be5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("9_yardGreening")]
 [assembly: System.Reflection.AssemblyTitleAttribute("9_yardGreening")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

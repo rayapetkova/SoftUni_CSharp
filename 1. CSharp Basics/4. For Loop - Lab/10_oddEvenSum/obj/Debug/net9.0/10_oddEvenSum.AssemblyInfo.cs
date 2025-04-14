@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("10_oddEvenSum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6745b7832e9f223198487b6bd664a418d6687be4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+552823e798995c102d4151faaf33b9d42dd2be5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("10_oddEvenSum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("10_oddEvenSum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

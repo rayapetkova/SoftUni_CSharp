@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("9_skiTrip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b79cad49a0dc688d0ae32fe4dd86b833b919c62e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+552823e798995c102d4151faaf33b9d42dd2be5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("9_skiTrip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("9_skiTrip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
