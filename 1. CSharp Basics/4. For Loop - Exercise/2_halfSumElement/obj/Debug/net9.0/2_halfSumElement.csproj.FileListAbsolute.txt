@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\2_halfSumElement\bin\Debug\net9.0\2_halfSumElement.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\2_halfSumElement\bin\Debug\net9.0\2_halfSumElement.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\2_halfSumElement\bin\Debug\net9.0\2_halfSumElement.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\2_halfSumElement\bin\Debug\net9.0\2_halfSumElement.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\2_halfSumElement\bin\Debug\net9.0\2_halfSumElement.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\2_halfSumElement\obj\Debug\net9.0\2_halfSumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\2_halfSumElement\obj\Debug\net9.0\2_halfSumElement.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\2_halfSumElement\obj\Debug\net9.0\2_halfSumElement.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\2_halfSumElement\obj\Debug\net9.0\2_halfSumElement.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\2_halfSumElement\obj\Debug\net9.0\2_halfSumElement.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\2_halfSumElement\obj\Debug\net9.0\2_halfSumElement.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\2_halfSumElement\obj\Debug\net9.0\refint\2_halfSumElement.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\2_halfSumElement\obj\Debug\net9.0\2_halfSumElement.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\2_halfSumElement\obj\Debug\net9.0\2_halfSumElement.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\2_halfSumElement\obj\Debug\net9.0\ref\2_halfSumElement.dll

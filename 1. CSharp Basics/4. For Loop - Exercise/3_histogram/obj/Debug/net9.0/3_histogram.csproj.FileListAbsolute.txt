@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\3_histogram\bin\Debug\net9.0\3_histogram.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\3_histogram\bin\Debug\net9.0\3_histogram.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\3_histogram\bin\Debug\net9.0\3_histogram.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\3_histogram\bin\Debug\net9.0\3_histogram.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\3_histogram\bin\Debug\net9.0\3_histogram.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\3_histogram\obj\Debug\net9.0\3_histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\3_histogram\obj\Debug\net9.0\3_histogram.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\3_histogram\obj\Debug\net9.0\3_histogram.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\3_histogram\obj\Debug\net9.0\3_histogram.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\3_histogram\obj\Debug\net9.0\3_histogram.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\3_histogram\obj\Debug\net9.0\3_histogram.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\3_histogram\obj\Debug\net9.0\refint\3_histogram.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\3_histogram\obj\Debug\net9.0\3_histogram.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\3_histogram\obj\Debug\net9.0\3_histogram.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\4. For Loop - Exercise\3_histogram\obj\Debug\net9.0\ref\3_histogram.dll
