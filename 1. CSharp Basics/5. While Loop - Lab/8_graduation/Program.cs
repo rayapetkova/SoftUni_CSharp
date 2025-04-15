@@ -4,7 +4,7 @@ int timesFailed = 0;
 int allGrades = 0;
 double gradesSum = 0;
 
-while (timesFailed <= 1 && allGrades <= 12)
+while (timesFailed <= 1 && allGrades < 12)
 {
     double grade = double.Parse(Console.ReadLine());
 
@@ -16,8 +16,6 @@ while (timesFailed <= 1 && allGrades <= 12)
     allGrades += 1;
     gradesSum += grade;
 }
-
-
 
 if (timesFailed > 1)
 {
