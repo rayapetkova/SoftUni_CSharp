@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\4_sequence2kPlus1\bin\Debug\net9.0\4_sequence2kPlus1.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\4_sequence2kPlus1\bin\Debug\net9.0\4_sequence2kPlus1.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\4_sequence2kPlus1\bin\Debug\net9.0\4_sequence2kPlus1.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\4_sequence2kPlus1\bin\Debug\net9.0\4_sequence2kPlus1.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\4_sequence2kPlus1\bin\Debug\net9.0\4_sequence2kPlus1.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\4_sequence2kPlus1\obj\Debug\net9.0\4_sequence2kPlus1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\4_sequence2kPlus1\obj\Debug\net9.0\4_sequence2kPlus1.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\4_sequence2kPlus1\obj\Debug\net9.0\4_sequence2kPlus1.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\4_sequence2kPlus1\obj\Debug\net9.0\4_sequence2kPlus1.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\4_sequence2kPlus1\obj\Debug\net9.0\4_sequence2kPlus1.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\4_sequence2kPlus1\obj\Debug\net9.0\4_sequence2kPlus1.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\4_sequence2kPlus1\obj\Debug\net9.0\refint\4_sequence2kPlus1.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\4_sequence2kPlus1\obj\Debug\net9.0\4_sequence2kPlus1.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\4_sequence2kPlus1\obj\Debug\net9.0\4_sequence2kPlus1.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\4_sequence2kPlus1\obj\Debug\net9.0\ref\4_sequence2kPlus1.dll

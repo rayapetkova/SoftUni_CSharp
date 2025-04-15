@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\3_sumNumbers\bin\Debug\net9.0\3_sumNumbers.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\3_sumNumbers\bin\Debug\net9.0\3_sumNumbers.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\3_sumNumbers\bin\Debug\net9.0\3_sumNumbers.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\3_sumNumbers\bin\Debug\net9.0\3_sumNumbers.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\3_sumNumbers\bin\Debug\net9.0\3_sumNumbers.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\3_sumNumbers\obj\Debug\net9.0\3_sumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\3_sumNumbers\obj\Debug\net9.0\3_sumNumbers.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\3_sumNumbers\obj\Debug\net9.0\3_sumNumbers.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\3_sumNumbers\obj\Debug\net9.0\3_sumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\3_sumNumbers\obj\Debug\net9.0\3_sumNumbers.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\3_sumNumbers\obj\Debug\net9.0\3_sumNumbers.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\3_sumNumbers\obj\Debug\net9.0\refint\3_sumNumbers.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\3_sumNumbers\obj\Debug\net9.0\3_sumNumbers.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\3_sumNumbers\obj\Debug\net9.0\3_sumNumbers.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\3_sumNumbers\obj\Debug\net9.0\ref\3_sumNumbers.dll
