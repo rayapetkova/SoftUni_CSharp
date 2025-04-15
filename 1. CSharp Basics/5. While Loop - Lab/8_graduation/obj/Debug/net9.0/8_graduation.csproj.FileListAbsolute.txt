@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\8_graduation\bin\Debug\net9.0\8_graduation.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\8_graduation\bin\Debug\net9.0\8_graduation.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\8_graduation\bin\Debug\net9.0\8_graduation.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\8_graduation\bin\Debug\net9.0\8_graduation.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\8_graduation\bin\Debug\net9.0\8_graduation.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\8_graduation\obj\Debug\net9.0\8_graduation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\8_graduation\obj\Debug\net9.0\8_graduation.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\8_graduation\obj\Debug\net9.0\8_graduation.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\8_graduation\obj\Debug\net9.0\8_graduation.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\8_graduation\obj\Debug\net9.0\8_graduation.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\8_graduation\obj\Debug\net9.0\8_graduation.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\8_graduation\obj\Debug\net9.0\refint\8_graduation.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\8_graduation\obj\Debug\net9.0\8_graduation.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\8_graduation\obj\Debug\net9.0\8_graduation.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Lab\8_graduation\obj\Debug\net9.0\ref\8_graduation.dll
