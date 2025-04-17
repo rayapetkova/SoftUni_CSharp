@@ -195,6 +195,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_oldBooks", "5. While Loop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_examPreparation", "5. While Loop - Exercise\2_examPreparation\2_examPreparation.csproj", "{A1AADCFE-9F7B-4C02-8F2C-E087D4AC6BF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_vacation", "5. While Loop - Exercise\3_vacation\3_vacation.csproj", "{A4CAF139-AE39-42B4-8DBC-4BEF733FED42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1237,6 +1239,18 @@ Global
 		{A1AADCFE-9F7B-4C02-8F2C-E087D4AC6BF2}.Release|x64.Build.0 = Release|Any CPU
 		{A1AADCFE-9F7B-4C02-8F2C-E087D4AC6BF2}.Release|x86.ActiveCfg = Release|Any CPU
 		{A1AADCFE-9F7B-4C02-8F2C-E087D4AC6BF2}.Release|x86.Build.0 = Release|Any CPU
+		{A4CAF139-AE39-42B4-8DBC-4BEF733FED42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4CAF139-AE39-42B4-8DBC-4BEF733FED42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4CAF139-AE39-42B4-8DBC-4BEF733FED42}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A4CAF139-AE39-42B4-8DBC-4BEF733FED42}.Debug|x64.Build.0 = Debug|Any CPU
+		{A4CAF139-AE39-42B4-8DBC-4BEF733FED42}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A4CAF139-AE39-42B4-8DBC-4BEF733FED42}.Debug|x86.Build.0 = Debug|Any CPU
+		{A4CAF139-AE39-42B4-8DBC-4BEF733FED42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4CAF139-AE39-42B4-8DBC-4BEF733FED42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4CAF139-AE39-42B4-8DBC-4BEF733FED42}.Release|x64.ActiveCfg = Release|Any CPU
+		{A4CAF139-AE39-42B4-8DBC-4BEF733FED42}.Release|x64.Build.0 = Release|Any CPU
+		{A4CAF139-AE39-42B4-8DBC-4BEF733FED42}.Release|x86.ActiveCfg = Release|Any CPU
+		{A4CAF139-AE39-42B4-8DBC-4BEF733FED42}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1327,5 +1341,6 @@ Global
 		{480E6C15-650E-4A8B-8578-4A0454C13814} = {D752D6E6-4B2A-6E22-E559-EC53105A8580}
 		{4DE36F78-EACD-41C1-8C94-7802A552A5F3} = {79847C64-C73D-7830-59AC-F2132BAFFE5D}
 		{A1AADCFE-9F7B-4C02-8F2C-E087D4AC6BF2} = {79847C64-C73D-7830-59AC-F2132BAFFE5D}
+		{A4CAF139-AE39-42B4-8DBC-4BEF733FED42} = {79847C64-C73D-7830-59AC-F2132BAFFE5D}
 	EndGlobalSection
 EndGlobal
