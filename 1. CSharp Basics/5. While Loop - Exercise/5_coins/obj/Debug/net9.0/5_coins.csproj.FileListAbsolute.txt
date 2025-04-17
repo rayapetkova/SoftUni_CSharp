@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\5_coins\bin\Debug\net9.0\5_coins.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\5_coins\bin\Debug\net9.0\5_coins.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\5_coins\bin\Debug\net9.0\5_coins.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\5_coins\bin\Debug\net9.0\5_coins.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\5_coins\bin\Debug\net9.0\5_coins.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\5_coins\obj\Debug\net9.0\5_coins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\5_coins\obj\Debug\net9.0\5_coins.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\5_coins\obj\Debug\net9.0\5_coins.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\5_coins\obj\Debug\net9.0\5_coins.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\5_coins\obj\Debug\net9.0\5_coins.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\5_coins\obj\Debug\net9.0\5_coins.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\5_coins\obj\Debug\net9.0\refint\5_coins.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\5_coins\obj\Debug\net9.0\5_coins.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\5_coins\obj\Debug\net9.0\5_coins.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\5_coins\obj\Debug\net9.0\ref\5_coins.dll
