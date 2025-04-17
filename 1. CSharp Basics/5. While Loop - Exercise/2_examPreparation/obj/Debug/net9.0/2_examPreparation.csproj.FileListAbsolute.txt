@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\2_examPreparation\bin\Debug\net9.0\2_examPreparation.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\2_examPreparation\bin\Debug\net9.0\2_examPreparation.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\2_examPreparation\bin\Debug\net9.0\2_examPreparation.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\2_examPreparation\bin\Debug\net9.0\2_examPreparation.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\2_examPreparation\bin\Debug\net9.0\2_examPreparation.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\2_examPreparation\obj\Debug\net9.0\2_examPreparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\2_examPreparation\obj\Debug\net9.0\2_examPreparation.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\2_examPreparation\obj\Debug\net9.0\2_examPreparation.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\2_examPreparation\obj\Debug\net9.0\2_examPreparation.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\2_examPreparation\obj\Debug\net9.0\2_examPreparation.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\2_examPreparation\obj\Debug\net9.0\2_examPreparation.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\2_examPreparation\obj\Debug\net9.0\refint\2_examPreparation.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\2_examPreparation\obj\Debug\net9.0\2_examPreparation.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\2_examPreparation\obj\Debug\net9.0\2_examPreparation.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\5. While Loop - Exercise\2_examPreparation\obj\Debug\net9.0\ref\2_examPreparation.dll
