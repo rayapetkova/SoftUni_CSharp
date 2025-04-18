@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\5_travelling\bin\Debug\net9.0\5_travelling.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\5_travelling\bin\Debug\net9.0\5_travelling.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\5_travelling\bin\Debug\net9.0\5_travelling.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\5_travelling\bin\Debug\net9.0\5_travelling.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\5_travelling\bin\Debug\net9.0\5_travelling.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\5_travelling\obj\Debug\net9.0\5_travelling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\5_travelling\obj\Debug\net9.0\5_travelling.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\5_travelling\obj\Debug\net9.0\5_travelling.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\5_travelling\obj\Debug\net9.0\5_travelling.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\5_travelling\obj\Debug\net9.0\5_travelling.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\5_travelling\obj\Debug\net9.0\5_travelling.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\5_travelling\obj\Debug\net9.0\refint\5_travelling.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\5_travelling\obj\Debug\net9.0\5_travelling.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\5_travelling\obj\Debug\net9.0\5_travelling.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\5_travelling\obj\Debug\net9.0\ref\5_travelling.dll

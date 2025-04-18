@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\6_building\bin\Debug\net9.0\6_building.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\6_building\bin\Debug\net9.0\6_building.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\6_building\bin\Debug\net9.0\6_building.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\6_building\bin\Debug\net9.0\6_building.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\6_building\bin\Debug\net9.0\6_building.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\6_building\obj\Debug\net9.0\6_building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\6_building\obj\Debug\net9.0\6_building.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\6_building\obj\Debug\net9.0\6_building.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\6_building\obj\Debug\net9.0\6_building.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\6_building\obj\Debug\net9.0\6_building.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\6_building\obj\Debug\net9.0\6_building.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\6_building\obj\Debug\net9.0\refint\6_building.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\6_building\obj\Debug\net9.0\6_building.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\6_building\obj\Debug\net9.0\6_building.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Lab\6_building\obj\Debug\net9.0\ref\6_building.dll
