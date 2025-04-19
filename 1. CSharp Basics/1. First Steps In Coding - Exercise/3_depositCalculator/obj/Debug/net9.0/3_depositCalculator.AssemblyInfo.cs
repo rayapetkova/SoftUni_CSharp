@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3_depositCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ef2fe11d967f8a8609091e92e66f44fcc60e989")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57d19b352d5e33a9e5367f7ad313fe27aa12eb16")]
 [assembly: System.Reflection.AssemblyProductAttribute("3_depositCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3_depositCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
