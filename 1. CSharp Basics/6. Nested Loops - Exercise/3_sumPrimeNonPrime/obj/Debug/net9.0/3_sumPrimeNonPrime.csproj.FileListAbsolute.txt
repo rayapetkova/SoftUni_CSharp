@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\3_sumPrimeNonPrime\bin\Debug\net9.0\3_sumPrimeNonPrime.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\3_sumPrimeNonPrime\bin\Debug\net9.0\3_sumPrimeNonPrime.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\3_sumPrimeNonPrime\bin\Debug\net9.0\3_sumPrimeNonPrime.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\3_sumPrimeNonPrime\bin\Debug\net9.0\3_sumPrimeNonPrime.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\3_sumPrimeNonPrime\bin\Debug\net9.0\3_sumPrimeNonPrime.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\3_sumPrimeNonPrime\obj\Debug\net9.0\3_sumPrimeNonPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\3_sumPrimeNonPrime\obj\Debug\net9.0\3_sumPrimeNonPrime.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\3_sumPrimeNonPrime\obj\Debug\net9.0\3_sumPrimeNonPrime.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\3_sumPrimeNonPrime\obj\Debug\net9.0\3_sumPrimeNonPrime.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\3_sumPrimeNonPrime\obj\Debug\net9.0\3_sumPrimeNonPrime.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\3_sumPrimeNonPrime\obj\Debug\net9.0\3_sumPrimeNonPrime.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\3_sumPrimeNonPrime\obj\Debug\net9.0\refint\3_sumPrimeNonPrime.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\3_sumPrimeNonPrime\obj\Debug\net9.0\3_sumPrimeNonPrime.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\3_sumPrimeNonPrime\obj\Debug\net9.0\3_sumPrimeNonPrime.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\3_sumPrimeNonPrime\obj\Debug\net9.0\ref\3_sumPrimeNonPrime.dll

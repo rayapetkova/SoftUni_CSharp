@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\4_trainTheTrainers\bin\Debug\net9.0\4_trainTheTrainers.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\4_trainTheTrainers\bin\Debug\net9.0\4_trainTheTrainers.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\4_trainTheTrainers\bin\Debug\net9.0\4_trainTheTrainers.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\4_trainTheTrainers\bin\Debug\net9.0\4_trainTheTrainers.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\4_trainTheTrainers\bin\Debug\net9.0\4_trainTheTrainers.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\4_trainTheTrainers\obj\Debug\net9.0\4_trainTheTrainers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\4_trainTheTrainers\obj\Debug\net9.0\4_trainTheTrainers.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\4_trainTheTrainers\obj\Debug\net9.0\4_trainTheTrainers.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\4_trainTheTrainers\obj\Debug\net9.0\4_trainTheTrainers.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\4_trainTheTrainers\obj\Debug\net9.0\4_trainTheTrainers.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\4_trainTheTrainers\obj\Debug\net9.0\4_trainTheTrainers.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\4_trainTheTrainers\obj\Debug\net9.0\refint\4_trainTheTrainers.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\4_trainTheTrainers\obj\Debug\net9.0\4_trainTheTrainers.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\4_trainTheTrainers\obj\Debug\net9.0\4_trainTheTrainers.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\4_trainTheTrainers\obj\Debug\net9.0\ref\4_trainTheTrainers.dll
