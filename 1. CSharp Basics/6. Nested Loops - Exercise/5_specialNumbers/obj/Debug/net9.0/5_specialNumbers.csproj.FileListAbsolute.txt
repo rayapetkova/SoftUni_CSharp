@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\5_specialNumbers\bin\Debug\net9.0\5_specialNumbers.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\5_specialNumbers\bin\Debug\net9.0\5_specialNumbers.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\5_specialNumbers\bin\Debug\net9.0\5_specialNumbers.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\5_specialNumbers\bin\Debug\net9.0\5_specialNumbers.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\5_specialNumbers\bin\Debug\net9.0\5_specialNumbers.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\5_specialNumbers\obj\Debug\net9.0\5_specialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\5_specialNumbers\obj\Debug\net9.0\5_specialNumbers.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\5_specialNumbers\obj\Debug\net9.0\5_specialNumbers.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\5_specialNumbers\obj\Debug\net9.0\5_specialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\5_specialNumbers\obj\Debug\net9.0\5_specialNumbers.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\5_specialNumbers\obj\Debug\net9.0\5_specialNumbers.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\5_specialNumbers\obj\Debug\net9.0\refint\5_specialNumbers.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\5_specialNumbers\obj\Debug\net9.0\5_specialNumbers.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\5_specialNumbers\obj\Debug\net9.0\5_specialNumbers.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\1. CSharp Basics\6. Nested Loops - Exercise\5_specialNumbers\obj\Debug\net9.0\ref\5_specialNumbers.dll
