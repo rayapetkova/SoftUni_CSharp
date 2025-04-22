@@ -23,7 +23,7 @@ while (true)
         allPresentationsRatesCount++;
     }
 
-    Console.WriteLine($"{presentation} - {(allRates / jury):F2}");
+    Console.WriteLine($"{presentation} - {(allRates / jury):F2}.");
 }
 
-Console.WriteLine($"Student's final assessment is {(totalRates / allPresentationsRatesCount):F2}");
+Console.WriteLine($"Student's final assessment is {(totalRates / allPresentationsRatesCount):F2}.");
