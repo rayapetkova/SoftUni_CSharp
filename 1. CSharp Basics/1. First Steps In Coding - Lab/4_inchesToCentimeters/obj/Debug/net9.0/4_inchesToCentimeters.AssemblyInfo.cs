@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4_inchesToCentimeters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5927e0e5d028693618f68e3cd875a9aec955bc59")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80f9ee6d0fb7b47073c4fc1f425ce01d0e5b4ee0")]
 [assembly: System.Reflection.AssemblyProductAttribute("4_inchesToCentimeters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4_inchesToCentimeters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
