@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\10_multiplicationTable\bin\Debug\net9.0\10_multiplicationTable.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\10_multiplicationTable\bin\Debug\net9.0\10_multiplicationTable.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\10_multiplicationTable\bin\Debug\net9.0\10_multiplicationTable.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\10_multiplicationTable\bin\Debug\net9.0\10_multiplicationTable.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\10_multiplicationTable\bin\Debug\net9.0\10_multiplicationTable.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\10_multiplicationTable\obj\Debug\net9.0\10_multiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\10_multiplicationTable\obj\Debug\net9.0\10_multiplicationTable.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\10_multiplicationTable\obj\Debug\net9.0\10_multiplicationTable.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\10_multiplicationTable\obj\Debug\net9.0\10_multiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\10_multiplicationTable\obj\Debug\net9.0\10_multiplicationTable.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\10_multiplicationTable\obj\Debug\net9.0\10_multiplicationTable.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\10_multiplicationTable\obj\Debug\net9.0\refint\10_multiplicationTable.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\10_multiplicationTable\obj\Debug\net9.0\10_multiplicationTable.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\10_multiplicationTable\obj\Debug\net9.0\10_multiplicationTable.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\10_multiplicationTable\obj\Debug\net9.0\ref\10_multiplicationTable.dll
