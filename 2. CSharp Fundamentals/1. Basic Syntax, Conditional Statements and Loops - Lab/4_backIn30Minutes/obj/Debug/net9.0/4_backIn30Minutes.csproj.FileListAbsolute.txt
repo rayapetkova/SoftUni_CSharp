@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\4_backIn30Minutes\bin\Debug\net9.0\4_backIn30Minutes.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\4_backIn30Minutes\bin\Debug\net9.0\4_backIn30Minutes.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\4_backIn30Minutes\bin\Debug\net9.0\4_backIn30Minutes.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\4_backIn30Minutes\bin\Debug\net9.0\4_backIn30Minutes.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\4_backIn30Minutes\bin\Debug\net9.0\4_backIn30Minutes.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\4_backIn30Minutes\obj\Debug\net9.0\4_backIn30Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\4_backIn30Minutes\obj\Debug\net9.0\4_backIn30Minutes.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\4_backIn30Minutes\obj\Debug\net9.0\4_backIn30Minutes.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\4_backIn30Minutes\obj\Debug\net9.0\4_backIn30Minutes.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\4_backIn30Minutes\obj\Debug\net9.0\4_backIn30Minutes.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\4_backIn30Minutes\obj\Debug\net9.0\4_backIn30Minutes.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\4_backIn30Minutes\obj\Debug\net9.0\refint\4_backIn30Minutes.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\4_backIn30Minutes\obj\Debug\net9.0\4_backIn30Minutes.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\4_backIn30Minutes\obj\Debug\net9.0\4_backIn30Minutes.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\4_backIn30Minutes\obj\Debug\net9.0\ref\4_backIn30Minutes.dll

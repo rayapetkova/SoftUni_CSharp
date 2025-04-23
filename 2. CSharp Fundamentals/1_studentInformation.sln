@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_passed", "1. Basic Syntax
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_passedOrFailed", "1. Basic Syntax, Conditional Statements and Loops - Lab\3_passedOrFailed\3_passedOrFailed.csproj", "{FBD5A595-BF0F-4BEB-9563-8B75C644118A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_backIn30Minutes", "1. Basic Syntax, Conditional Statements and Loops - Lab\4_backIn30Minutes\4_backIn30Minutes.csproj", "{CCA68FC3-ABB3-4127-9C83-633806E2A4AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_monthPrinter", "1. Basic Syntax, Conditional Statements and Loops - Lab\5_monthPrinter\5_monthPrinter.csproj", "{9EA1EAC6-43B3-4349-B115-37B38C6E0EBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,30 @@ Global
 		{FBD5A595-BF0F-4BEB-9563-8B75C644118A}.Release|x64.Build.0 = Release|Any CPU
 		{FBD5A595-BF0F-4BEB-9563-8B75C644118A}.Release|x86.ActiveCfg = Release|Any CPU
 		{FBD5A595-BF0F-4BEB-9563-8B75C644118A}.Release|x86.Build.0 = Release|Any CPU
+		{CCA68FC3-ABB3-4127-9C83-633806E2A4AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA68FC3-ABB3-4127-9C83-633806E2A4AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA68FC3-ABB3-4127-9C83-633806E2A4AE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CCA68FC3-ABB3-4127-9C83-633806E2A4AE}.Debug|x64.Build.0 = Debug|Any CPU
+		{CCA68FC3-ABB3-4127-9C83-633806E2A4AE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CCA68FC3-ABB3-4127-9C83-633806E2A4AE}.Debug|x86.Build.0 = Debug|Any CPU
+		{CCA68FC3-ABB3-4127-9C83-633806E2A4AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA68FC3-ABB3-4127-9C83-633806E2A4AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCA68FC3-ABB3-4127-9C83-633806E2A4AE}.Release|x64.ActiveCfg = Release|Any CPU
+		{CCA68FC3-ABB3-4127-9C83-633806E2A4AE}.Release|x64.Build.0 = Release|Any CPU
+		{CCA68FC3-ABB3-4127-9C83-633806E2A4AE}.Release|x86.ActiveCfg = Release|Any CPU
+		{CCA68FC3-ABB3-4127-9C83-633806E2A4AE}.Release|x86.Build.0 = Release|Any CPU
+		{9EA1EAC6-43B3-4349-B115-37B38C6E0EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA1EAC6-43B3-4349-B115-37B38C6E0EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA1EAC6-43B3-4349-B115-37B38C6E0EBC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9EA1EAC6-43B3-4349-B115-37B38C6E0EBC}.Debug|x64.Build.0 = Debug|Any CPU
+		{9EA1EAC6-43B3-4349-B115-37B38C6E0EBC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9EA1EAC6-43B3-4349-B115-37B38C6E0EBC}.Debug|x86.Build.0 = Debug|Any CPU
+		{9EA1EAC6-43B3-4349-B115-37B38C6E0EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA1EAC6-43B3-4349-B115-37B38C6E0EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EA1EAC6-43B3-4349-B115-37B38C6E0EBC}.Release|x64.ActiveCfg = Release|Any CPU
+		{9EA1EAC6-43B3-4349-B115-37B38C6E0EBC}.Release|x64.Build.0 = Release|Any CPU
+		{9EA1EAC6-43B3-4349-B115-37B38C6E0EBC}.Release|x86.ActiveCfg = Release|Any CPU
+		{9EA1EAC6-43B3-4349-B115-37B38C6E0EBC}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -65,5 +93,7 @@ Global
 		{9EEBE418-3D53-4473-A638-49841DD0A250} = {76F50168-52A8-E35E-6147-F9E3C894F0A3}
 		{85E5BEA4-F310-4905-B518-22A09291EC06} = {76F50168-52A8-E35E-6147-F9E3C894F0A3}
 		{FBD5A595-BF0F-4BEB-9563-8B75C644118A} = {76F50168-52A8-E35E-6147-F9E3C894F0A3}
+		{CCA68FC3-ABB3-4127-9C83-633806E2A4AE} = {76F50168-52A8-E35E-6147-F9E3C894F0A3}
+		{9EA1EAC6-43B3-4349-B115-37B38C6E0EBC} = {76F50168-52A8-E35E-6147-F9E3C894F0A3}
 	EndGlobalSection
 EndGlobal
