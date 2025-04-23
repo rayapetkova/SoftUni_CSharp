@@ -1,0 +1,15 @@
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\9_sumOfOddNumbers\bin\Debug\net9.0\9_sumOfOddNumbers.exe
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\9_sumOfOddNumbers\bin\Debug\net9.0\9_sumOfOddNumbers.deps.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\9_sumOfOddNumbers\bin\Debug\net9.0\9_sumOfOddNumbers.runtimeconfig.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\9_sumOfOddNumbers\bin\Debug\net9.0\9_sumOfOddNumbers.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\9_sumOfOddNumbers\bin\Debug\net9.0\9_sumOfOddNumbers.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\9_sumOfOddNumbers\obj\Debug\net9.0\9_sumOfOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\9_sumOfOddNumbers\obj\Debug\net9.0\9_sumOfOddNumbers.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\9_sumOfOddNumbers\obj\Debug\net9.0\9_sumOfOddNumbers.AssemblyInfo.cs
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\9_sumOfOddNumbers\obj\Debug\net9.0\9_sumOfOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\9_sumOfOddNumbers\obj\Debug\net9.0\9_sumOfOddNumbers.sourcelink.json
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\9_sumOfOddNumbers\obj\Debug\net9.0\9_sumOfOddNumbers.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\9_sumOfOddNumbers\obj\Debug\net9.0\refint\9_sumOfOddNumbers.dll
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\9_sumOfOddNumbers\obj\Debug\net9.0\9_sumOfOddNumbers.pdb
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\9_sumOfOddNumbers\obj\Debug\net9.0\9_sumOfOddNumbers.genruntimeconfig.cache
+C:\Users\DELL 5580\Documents\GitHub\SoftUni_CSharp\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Lab\9_sumOfOddNumbers\obj\Debug\net9.0\ref\9_sumOfOddNumbers.dll
