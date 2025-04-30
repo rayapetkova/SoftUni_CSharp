@@ -233,6 +233,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_specialNumbers", "6. Nest
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_cinemaTickets", "6. Nested Loops - Exercise\6_cinemaTickets\6_cinemaTickets.csproj", "{DBF48B42-6467-42E8-8E29-3F21BF77A651}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_ages", "..\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Exercise\1_ages\1_ages.csproj", "{639924E7-5D94-4158-AF0E-EC3B86CEDFE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1479,6 +1481,18 @@ Global
 		{DBF48B42-6467-42E8-8E29-3F21BF77A651}.Release|x64.Build.0 = Release|Any CPU
 		{DBF48B42-6467-42E8-8E29-3F21BF77A651}.Release|x86.ActiveCfg = Release|Any CPU
 		{DBF48B42-6467-42E8-8E29-3F21BF77A651}.Release|x86.Build.0 = Release|Any CPU
+		{639924E7-5D94-4158-AF0E-EC3B86CEDFE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639924E7-5D94-4158-AF0E-EC3B86CEDFE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639924E7-5D94-4158-AF0E-EC3B86CEDFE7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{639924E7-5D94-4158-AF0E-EC3B86CEDFE7}.Debug|x64.Build.0 = Debug|Any CPU
+		{639924E7-5D94-4158-AF0E-EC3B86CEDFE7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{639924E7-5D94-4158-AF0E-EC3B86CEDFE7}.Debug|x86.Build.0 = Debug|Any CPU
+		{639924E7-5D94-4158-AF0E-EC3B86CEDFE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639924E7-5D94-4158-AF0E-EC3B86CEDFE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{639924E7-5D94-4158-AF0E-EC3B86CEDFE7}.Release|x64.ActiveCfg = Release|Any CPU
+		{639924E7-5D94-4158-AF0E-EC3B86CEDFE7}.Release|x64.Build.0 = Release|Any CPU
+		{639924E7-5D94-4158-AF0E-EC3B86CEDFE7}.Release|x86.ActiveCfg = Release|Any CPU
+		{639924E7-5D94-4158-AF0E-EC3B86CEDFE7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

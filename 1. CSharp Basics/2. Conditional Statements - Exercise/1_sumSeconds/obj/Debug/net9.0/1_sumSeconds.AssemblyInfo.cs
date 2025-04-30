@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1_sumSeconds")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5927e0e5d028693618f68e3cd875a9aec955bc59")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+148fd8fc9f2decf4b9ae1b7a9da75e96d700742a")]
 [assembly: System.Reflection.AssemblyProductAttribute("1_sumSeconds")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1_sumSeconds")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
