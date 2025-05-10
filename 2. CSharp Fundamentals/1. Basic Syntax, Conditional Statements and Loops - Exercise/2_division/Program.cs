@@ -33,5 +33,5 @@ if (divisibleBy != 0)
 }
 else 
 {
-    Console.WriteLine("Not divisible.");
+    Console.WriteLine("Not divisible");
 }

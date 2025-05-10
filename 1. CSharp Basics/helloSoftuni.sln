@@ -237,6 +237,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_ages", "..\2. CSharp Fund
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_division", "..\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Exercise\2_division\2_division.csproj", "{82FD5655-892A-4306-91CD-6DEDD3722EDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_vacation", "..\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Exercise\3_vacation\3_vacation.csproj", "{CC2D6A22-2291-4151-B1BA-9528C3B47B10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1507,6 +1509,18 @@ Global
 		{82FD5655-892A-4306-91CD-6DEDD3722EDA}.Release|x64.Build.0 = Release|Any CPU
 		{82FD5655-892A-4306-91CD-6DEDD3722EDA}.Release|x86.ActiveCfg = Release|Any CPU
 		{82FD5655-892A-4306-91CD-6DEDD3722EDA}.Release|x86.Build.0 = Release|Any CPU
+		{CC2D6A22-2291-4151-B1BA-9528C3B47B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2D6A22-2291-4151-B1BA-9528C3B47B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2D6A22-2291-4151-B1BA-9528C3B47B10}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CC2D6A22-2291-4151-B1BA-9528C3B47B10}.Debug|x64.Build.0 = Debug|Any CPU
+		{CC2D6A22-2291-4151-B1BA-9528C3B47B10}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CC2D6A22-2291-4151-B1BA-9528C3B47B10}.Debug|x86.Build.0 = Debug|Any CPU
+		{CC2D6A22-2291-4151-B1BA-9528C3B47B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2D6A22-2291-4151-B1BA-9528C3B47B10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC2D6A22-2291-4151-B1BA-9528C3B47B10}.Release|x64.ActiveCfg = Release|Any CPU
+		{CC2D6A22-2291-4151-B1BA-9528C3B47B10}.Release|x64.Build.0 = Release|Any CPU
+		{CC2D6A22-2291-4151-B1BA-9528C3B47B10}.Release|x86.ActiveCfg = Release|Any CPU
+		{CC2D6A22-2291-4151-B1BA-9528C3B47B10}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
