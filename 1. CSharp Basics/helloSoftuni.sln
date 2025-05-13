@@ -239,6 +239,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_division", "..\2. CSharp 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_vacation", "..\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Exercise\3_vacation\3_vacation.csproj", "{CC2D6A22-2291-4151-B1BA-9528C3B47B10}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_printAndSum", "..\2. CSharp Fundamentals\1. Basic Syntax, Conditional Statements and Loops - Exercise\4_printAndSum\4_printAndSum.csproj", "{4EC735C8-DC11-4826-8C44-98B97367DD50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1521,6 +1523,18 @@ Global
 		{CC2D6A22-2291-4151-B1BA-9528C3B47B10}.Release|x64.Build.0 = Release|Any CPU
 		{CC2D6A22-2291-4151-B1BA-9528C3B47B10}.Release|x86.ActiveCfg = Release|Any CPU
 		{CC2D6A22-2291-4151-B1BA-9528C3B47B10}.Release|x86.Build.0 = Release|Any CPU
+		{4EC735C8-DC11-4826-8C44-98B97367DD50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EC735C8-DC11-4826-8C44-98B97367DD50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EC735C8-DC11-4826-8C44-98B97367DD50}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4EC735C8-DC11-4826-8C44-98B97367DD50}.Debug|x64.Build.0 = Debug|Any CPU
+		{4EC735C8-DC11-4826-8C44-98B97367DD50}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4EC735C8-DC11-4826-8C44-98B97367DD50}.Debug|x86.Build.0 = Debug|Any CPU
+		{4EC735C8-DC11-4826-8C44-98B97367DD50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EC735C8-DC11-4826-8C44-98B97367DD50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EC735C8-DC11-4826-8C44-98B97367DD50}.Release|x64.ActiveCfg = Release|Any CPU
+		{4EC735C8-DC11-4826-8C44-98B97367DD50}.Release|x64.Build.0 = Release|Any CPU
+		{4EC735C8-DC11-4826-8C44-98B97367DD50}.Release|x86.ActiveCfg = Release|Any CPU
+		{4EC735C8-DC11-4826-8C44-98B97367DD50}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
